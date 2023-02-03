@@ -1,2 +1,2 @@
 # Chan
-Chan's Repository
+## Chan's Repository
