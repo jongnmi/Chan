@@ -10,6 +10,6 @@ I'm Chan
 2. I'm Chan
 3. Nice to meet you
 
-+ Hello
-+ I'm Chan
-  + Nice to meet you
++ **Hello**
++ I'm _Chan_
+  + ~~Nice~~ to ___meet you___
