@@ -38,4 +38,4 @@ public class ContinueTest {
 [네이버](https://www.naver.com/)
 
 
-[구글](https://www.google.com/, "검색 사이트")
+[Naver](https://www.naver.com/, "검색 사이트")
